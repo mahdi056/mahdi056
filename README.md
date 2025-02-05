@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/BHPYDqwd/Add-a-heading.png" />
+  <img height="200" src="https://i.ibb.co.com/zVkMJMDX/Add-a-heading-1.png" />
 
 </div>
 
