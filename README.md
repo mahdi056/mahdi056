@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/jvgXQv53/Black-and-White-Minimalist-Elegant-Fashion-Banner.png" />
+  <img height="200" src="https://i.ibb.co.com/VczMFDp4/cover.png" />
 
 </div>
 
