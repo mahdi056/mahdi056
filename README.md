@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/ahnaf-chowdhury-mahdi-83b12630b" target="_blank">
+  <a href="https://www.linkedin.com/in/ahnaf-chowdhury-mahdi-83b12630b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/share/1EJws33CrU/" target="_blank">
