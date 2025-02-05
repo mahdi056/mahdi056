@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="center">Tools i used</h3>
+<h3 align="center">Tools I used</h3>
 
 ###
 
