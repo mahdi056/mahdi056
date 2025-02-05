@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Hello! I’m a Frontend Web Developer with a passion for building clean, responsive, and user-friendly websites. I enjoy working with HTML, CSS, JavaScript, and React to create interactive and visually appealing web applications.<br><br>I have experience in front-end development and am eager to expand my skills in back-end technologies. I love solving problems, learning new tools, and continuously improving my coding abilities.<br><br>What I Do:<br>🔹 Develop modern and responsive web applications<br>🔹 Improve website performance and user experience<br>🔹 Learn and explore new web technologies<br><br>I’m excited to collaborate, grow, and contribute to amazing projects. <br><br>Contact: ahnafmahdi12@gmail.com</p>
+<p align="left">Hello! I’m a Frontend Developer with a passion for building clean, responsive, and user-friendly websites. I enjoy working with HTML, CSS, JavaScript, and React to create interactive and visually appealing web applications.<br><br>I have experience in front-end development and am eager to expand my skills in back-end technologies. I love solving problems, learning new tools, and continuously improving my coding abilities.<br><br>What I Do:<br>🔹 Develop modern and responsive web applications<br>🔹 Improve website performance and user experience<br>🔹 Learn and explore new web technologies<br><br>I’m excited to collaborate, grow, and contribute to amazing projects. <br><br>Contact: ahnafmahdi12@gmail.com</p>
 
 ###
 
